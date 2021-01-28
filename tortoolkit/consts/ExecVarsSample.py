@@ -39,13 +39,13 @@ except:
 
         # Will be enabled once its set
         # For vps change it to True if config loaded
-        RCLONE_ENABLED = false
+        RCLONE_ENABLED = False
 
         # If the user fails to select whether to use rclone or telegram to upload this will be the deafult.
         DEFAULT_TIMEOUT = "leech"
 
         # For vps set path here or you can use runtime too
-        RCLONE_CONFIG = false
+        RCLONE_CONFIG = False
         
         # Name of the RCLONE drive from the config
         DEF_RCLONE_DRIVE = ""
