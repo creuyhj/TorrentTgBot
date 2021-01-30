@@ -45,7 +45,7 @@ except:
         DEFAULT_TIMEOUT = "leech"
 
         # For vps set path here or you can use runtime too
-        RCLONE_CONFIG = False
+        RCLONE_CONFIG = false
         
         # Name of the RCLONE drive from the config
         DEF_RCLONE_DRIVE = ""
